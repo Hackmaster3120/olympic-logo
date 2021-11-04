@@ -1,0 +1,21 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	width: 800px;
+	height: 600px;
+	border-style: double;
+	background-color: azure;
+}
+body{
+	align-items: center;
+}
